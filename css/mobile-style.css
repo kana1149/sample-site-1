@@ -1,0 +1,9 @@
+/* small screen
+@media (max-width: 620px) {
+.header-container{
+    width: 600px;
+}
+.header-container h1{
+    width: 530px;
+}
+} */
